@@ -11,4 +11,4 @@ Input:
    
 Output
 
-&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p$\times$t$\times$r
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p\*t\*r
